@@ -642,8 +642,7 @@ w_final = min(np.median(widths), CLAMP_FACTOR * PRIOR_WIDTH[cls])
 
 | Name | Roll No | Email |
 |------|---------|-------|
-| Boddu Amarnath | 26574 | bamarnath@iisc.ac.in |
-| Utkarsh Vats | 27284 | utkarshvats@iisc.ac.in |
+| Athikesavan V | 26532 | athikesavanv@iisc.ac.in |
 
 **Course:** CP260-2026, Indian Institute of Science
 
