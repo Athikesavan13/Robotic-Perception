@@ -147,63 +147,10 @@ OBB = { c ∈ ℝ³,  e ∈ ℝ³,  R ∈ SO(3) }
 
 ---
 
-## 📁 Repository Structure
-
-```
-metric-semantic-3d-reconstruction/
-│
-├── README.md
-├── requirements.txt
-├── data.yaml                          # YOLO dataset config
-│
-├── notebooks/
-│   ├── Cell_A_dataset_prep.ipynb      # Stage 1: annotation conversion
-│   ├── Cell_B_train_yolo.ipynb        # Stage 2: YOLOv9m fine-tuning
-│   ├── Cell_C_detect_all_frames.ipynb # Stage 3: batch inference
-│   ├── Cell_D_triangulation.ipynb     # Stage 4: ray triangulation
-│   ├── Cell_E_obb_assembly.ipynb      # Stage 5: OBB construction
-│   ├── Cell_F_validation.ipynb        # Evaluation vs ground truth
-│   └── Cell_G_visualisation.ipynb     # OBB back-projection plots
-│
-├── src/
-│   ├── dataset_prep.py                # Polygon → YOLO bbox conversion
-│   ├── train.py                       # YOLOv9m training script
-│   ├── detect.py                      # Batch detection on all frames
-│   ├── triangulate.py                 # Multi-view ray triangulation
-│   ├── obb_assembly.py                # OBB rotation + extent recovery
-│   ├── visualise.py                   # OBB back-projection renderer
-│   └── utils.py                       # Shared helpers (pose loading, etc.)
-│
-├── data/
-│   ├── annotations/                   # LabelMe JSON files (16 frames)
-│   ├── images/
-│   │   ├── train/                     # 12 training images
-│   │   └── val/                       # 4 validation images
-│   ├── labels/
-│   │   ├── train/                     # YOLO .txt label files
-│   │   └── val/
-│   └── poses.json                     # Camera-to-world pose matrices
-│
-├── weights/
-│   └── yolov9m_sockets.pt             # Fine-tuned model weights
-│
-├── outputs/
-│   ├── final_answers.json             # Predicted OBBs (submission)
-│   ├── detections/                    # Per-frame detection results
-│   └── visualisations/                # OBB projection images
-│
-└── assets/
-    └── pipeline_banner.png
-```
-
 ---
 
 ## 📦 Dataset
 
-The dataset is **not included** in this repository (Kaggle competition data). To reproduce results:
-
-1. Download the dataset from the Kaggle competition page
-2. Place images in `data/images/`, annotations in `data/annotations/`, and `poses.json` in `data/`
 
 **Dataset Statistics:**
 
