@@ -1,0 +1,98 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Power Socket",
+      "score": null,
+      "points": [
+        [
+          1846.6932270916332,
+          876.3346613545816
+        ],
+        [
+          1847.3306772908365,
+          925.7370517928285
+        ],
+        [
+          1937.211155378486,
+          928.9243027888444
+        ],
+        [
+          1934.9800796812747,
+          871.5537848605577
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Ethernet Socket",
+      "score": null,
+      "points": [
+        [
+          1895.0,
+          499.0
+        ],
+        [
+          1893.1333333333332,
+          531.5333333333333
+        ],
+        [
+          1921.6666666666667,
+          532.3333333333334
+        ],
+        [
+          1920.6000000000001,
+          499.8
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "VGA Socket",
+      "score": null,
+      "points": [
+        [
+          1880.6306306306305,
+          330.5855855855856
+        ],
+        [
+          1872.3423423423424,
+          414.1891891891892
+        ],
+        [
+          1904.4144144144143,
+          413.8288288288289
+        ],
+        [
+          1911.261261261261,
+          331.30630630630634
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000461.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

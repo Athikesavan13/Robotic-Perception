@@ -1,0 +1,69 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ethernet Socket",
+      "score": null,
+      "points": [
+        [
+          1629.3333333333333,
+          586.060606060606
+        ],
+        [
+          1618.181818181818,
+          685.9393939393939
+        ],
+        [
+          1703.5151515151515,
+          697.090909090909
+        ],
+        [
+          1709.8181818181815,
+          593.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "VGA Socket",
+      "score": null,
+      "points": [
+        [
+          1560.8227848101264,
+          173.29113924050634
+        ],
+        [
+          1547.6582278481014,
+          378.86075949367086
+        ],
+        [
+          1628.1645569620252,
+          383.9240506329114
+        ],
+        [
+          1640.8227848101267,
+          171.26582278481013
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000371.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

@@ -1,0 +1,98 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ethernet Socket",
+      "score": null,
+      "points": [
+        [
+          1608.1382978723404,
+          555.2127659574469
+        ],
+        [
+          1646.8617021276596,
+          552.2340425531914
+        ],
+        [
+          1645.585106382979,
+          601.1702127659574
+        ],
+        [
+          1608.1382978723404,
+          600.3191489361701
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Power Socket",
+      "score": null,
+      "points": [
+        [
+          1571.4598540145985,
+          1036.4233576642337
+        ],
+        [
+          1669.5620437956204,
+          1025.6204379562043
+        ],
+        [
+          1670.1459854014597,
+          1085.1824817518248
+        ],
+        [
+          1569.7080291970801,
+          1094.2335766423357
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "VGA Socket",
+      "score": null,
+      "points": [
+        [
+          1578.9240506329115,
+          337.21518987341767
+        ],
+        [
+          1576.8987341772151,
+          444.55696202531647
+        ],
+        [
+          1616.8987341772154,
+          443.5443037974684
+        ],
+        [
+          1621.4556962025317,
+          337.21518987341767
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000468.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

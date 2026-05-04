@@ -1,0 +1,98 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Power Socket",
+      "score": null,
+      "points": [
+        [
+          1521.3297872340424,
+          830.8510638297872
+        ],
+        [
+          1520.0531914893618,
+          884.8936170212764
+        ],
+        [
+          1613.6702127659576,
+          895.9574468085107
+        ],
+        [
+          1614.521276595745,
+          839.3617021276596
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Ethernet Socket",
+      "score": null,
+      "points": [
+        [
+          1551.8023255813953,
+          485.00000000000006
+        ],
+        [
+          1552.7325581395348,
+          517.0930232558139
+        ],
+        [
+          1581.5697674418607,
+          519.186046511628
+        ],
+        [
+          1582.03488372093,
+          483.8372093023256
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "VGA Socket",
+      "score": null,
+      "points": [
+        [
+          1527.4141876430206,
+          329.26773455377577
+        ],
+        [
+          1524.4851258581236,
+          403.04347826086956
+        ],
+        [
+          1555.4233409610983,
+          405.60640732265443
+        ],
+        [
+          1559.450800915332,
+          330.1830663615561
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000426.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

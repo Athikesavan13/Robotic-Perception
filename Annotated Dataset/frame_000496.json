@@ -1,0 +1,102 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ethernet Socket",
+      "score": null,
+      "points": [
+        [
+          1760.1734104046243,
+          573.5260115606936
+        ],
+        [
+          1757.8612716763005,
+          623.4682080924855
+        ],
+        [
+          1791.156069364162,
+          619.7687861271677
+        ],
+        [
+          1793.9306358381502,
+          567.514450867052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Power Socket",
+      "score": null,
+      "points": [
+        [
+          1708.8439306358382,
+          1087.5144508670521
+        ],
+        [
+          1709.3063583815028,
+          1165.664739884393
+        ],
+        [
+          1804.5664739884394,
+          1137.9190751445087
+        ],
+        [
+          1799.942196531792,
+          1057.456647398844
+        ],
+        [
+          1799.942196531792,
+          1057.456647398844
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "VGA Socket",
+      "score": null,
+      "points": [
+        [
+          1751.4801444043323,
+          342.20216606498195
+        ],
+        [
+          1746.8592057761734,
+          451.94945848375454
+        ],
+        [
+          1781.8050541516247,
+          455.12635379061373
+        ],
+        [
+          1785.8483754512636,
+          344.5126353790614
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000496.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}

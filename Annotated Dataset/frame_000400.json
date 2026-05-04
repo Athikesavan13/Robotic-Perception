@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Power Socket",
+      "score": null,
+      "points": [
+        [
+          1283.7037037037037,
+          800.0000000000001
+        ],
+        [
+          1271.8518518518522,
+          961.4814814814816
+        ],
+        [
+          1568.1481481481485,
+          1031.111111111111
+        ],
+        [
+          1594.8148148148148,
+          841.4814814814815
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000400.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560
+}

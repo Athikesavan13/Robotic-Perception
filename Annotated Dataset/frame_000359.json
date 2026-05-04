@@ -1,0 +1,98 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Ethernet Socket",
+      "score": null,
+      "points": [
+        [
+          1870.1481481481478,
+          472.96296296296293
+        ],
+        [
+          1865.9999999999998,
+          520.3703703703703
+        ],
+        [
+          1917.2592592592594,
+          527.4814814814814
+        ],
+        [
+          1920.5185185185182,
+          473.5555555555555
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "Power Socket",
+      "score": null,
+      "points": [
+        [
+          1797.5757575757575,
+          982.9090909090908
+        ],
+        [
+          1789.3333333333333,
+          1051.7575757575758
+        ],
+        [
+          1936.2424242424242,
+          1089.5757575757575
+        ],
+        [
+          1940.6060606060605,
+          1018.7878787878788
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "VGA Socket",
+      "score": null,
+      "points": [
+        [
+          1840.4225352112678,
+          233.2394366197183
+        ],
+        [
+          1831.1267605633802,
+          349.29577464788736
+        ],
+        [
+          1876.4788732394366,
+          352.11267605633805
+        ],
+        [
+          1887.4647887323943,
+          232.67605633802816
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_000359.png",
+  "imageData": null,
+  "imageHeight": 1440,
+  "imageWidth": 2560,
+  "description": ""
+}
